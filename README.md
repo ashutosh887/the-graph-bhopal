@@ -1,7 +1,11 @@
 # the-graph-bhopal
 Resources and materials focused on the Graph Bhopal's Session!
 
-**Graph Explorer:** [visit](https://thegraph.com/explorer) 
+## Resources:
+- [Bitcoin Whitepaper](https://bitcoin.org/bitcoin.pdf)
+- [Graph Day Keynote: By Yaniv Tal](https://youtu.be/XvQ6X54Ffe8)
+- [The Graph Explained: Finematics](https://youtu.be/7gC7xJ_98r8)
+- [Graph Explorer](https://thegraph.com/explorer) 
 
 
 
